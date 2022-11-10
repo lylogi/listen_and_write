@@ -1,0 +1,2 @@
+include ':app', ':Subtitle', ':event'
+rootProject.name='listen-and-write'
